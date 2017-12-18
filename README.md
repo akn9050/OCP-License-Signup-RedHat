@@ -70,6 +70,6 @@ Follow these steps if you don't regstered already otherwise jump to [step4](#now
 
 14. Here we can see the subscription details. We need **Pool ID** for further use. Copy Pool ID and save in notepad.
 
-<kbd>![Pool ID](/images/ocplicense/pool_id.jpg)</kbd>
+<kbd>![Pool ID](/images/ocplicense/pool_id1.jpg)</kbd>
 
 [Up ↑](#redhat-ocp-license-signup)
