@@ -20,7 +20,7 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
 \
 <kbd>![Confirmation mail](/images/ocplicense/confirm_reg_mail.jpg)</kbd>
 
-4. ### Now Log IN to Red Hat account.
+4. #### Now Log IN to Red Hat account.
 \
 <kbd>![Login Redhat](/images/ocplicense/login_redhat1.jpg)</kbd>
 <kbd>![Agree](/images/ocplicense/agree_getstarted2.jpg)</kbd>
