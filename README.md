@@ -51,7 +51,12 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
     * Then click on **Create** button.
     
 <kbd>![Create](/images/ocplicense/create_activationkey.jpg)</kbd>
+
+10. On menu bar you will see **Subscriptions** click on that to check your subscrition.
+
 <kbd>![Subscriptions](/images/ocplicense/click_subscription.jpg)</kbd>
+
+11.
 <kbd>![Products](/images/ocplicense/click_30dayself.jpg)</kbd>
 <kbd>![Subscription Details](/images/ocplicense/subscriptions_30daytrial.jpg)</kbd>
 <kbd>![Select Subscription](/images/ocplicense/subscription_number.jpg)</kbd>
