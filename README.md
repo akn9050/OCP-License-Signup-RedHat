@@ -1,0 +1,1 @@
+# OCP-licence-signup-RedHat-
