@@ -33,6 +33,9 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
 6. Home page will comes up after step 5. Click on **My Subscription**.
 
 <kbd>![My Subscription](/images/ocplicense/my_subscription.jpg)</kbd>
+
+7. For using ocp subscription you need activation key, organization id and pool id.
+    * Click on **Activation key**. 
 <kbd>![Activation Key](/images/ocplicense/activation_key.jpg)</kbd>
 <kbd>![New](/images/ocplicense/new_activation_key.jpg)</kbd>
 <kbd>![Create](/images/ocplicense/create_activationkey.jpg)</kbd>
