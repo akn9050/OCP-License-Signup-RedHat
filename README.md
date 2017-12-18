@@ -1,4 +1,4 @@
-# OCP-licence-signup-RedHat
+# OCP-license-signup-RedHat
 
 ### Redhat account Registration
 Follow these steps if you don't regstered already otherwise jump to [step5](#now-log-in-to-red-hat-account).
