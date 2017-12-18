@@ -1,16 +1,16 @@
 # OCP-licence-signup-RedHat
 
-![Registration](/images/ocplicense/redhat_reg.jpg )
-![Registration Details](/images/ocplicense/reg_form.jpg)
-![Confirmation mail](/images/ocplicense/confirm_reg_mail.jpg)
-![Login Redhat](/images/ocplicense/login_redhat1.jpg)
-![Agree](/images/ocplicense/agree_getstarted2.jpg)
-![My Subscription](/images/ocplicense/my_subscription.jpg)
-![Activation Key](/images/ocplicense/activation_key.jpg)
-![New](/images/ocplicense/new_activation_key.jpg)
-![Create](/images/ocplicense/create_activationkey.jpg)
-![Subscriptions](/images/ocplicense/click_subscription.jpg)
-![Products](/images/ocplicense/click_30dayself.jpg)
-![Subscription Details](/images/ocplicense/subscriptions_30daytrial.jpg)
-![Select Subscription](/images/ocplicense/subscription_number.jpg)
-![Pool ID](/images/ocplicense/pool_id.jpg)
+<kbd>![Registration](/images/ocplicense/redhat_reg.jpg )</kbd>
+<kbd>![Registration Details](/images/ocplicense/reg_form.jpg)</kbd>
+<kbd>![Confirmation mail](/images/ocplicense/confirm_reg_mail.jpg)</kbd>
+<kbd>![Login Redhat](/images/ocplicense/login_redhat1.jpg)</kbd>
+<kbd>![Agree](/images/ocplicense/agree_getstarted2.jpg)</kbd>
+<kbd>![My Subscription](/images/ocplicense/my_subscription.jpg)</kbd>
+<kbd>![Activation Key](/images/ocplicense/activation_key.jpg)</kbd>
+<kbd>![New](/images/ocplicense/new_activation_key.jpg)</kbd>
+<kbd>![Create](/images/ocplicense/create_activationkey.jpg)</kbd>
+<kbd>![Subscriptions](/images/ocplicense/click_subscription.jpg)</kbd>
+<kbd>![Products](/images/ocplicense/click_30dayself.jpg)</kbd>
+<kbd>![Subscription Details](/images/ocplicense/subscriptions_30daytrial.jpg)</kbd>
+<kbd>![Select Subscription](/images/ocplicense/subscription_number.jpg)</kbd>
+<kbd>![Pool ID](/images/ocplicense/pool_id.jpg)</kbd>
