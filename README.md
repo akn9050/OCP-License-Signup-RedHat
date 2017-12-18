@@ -4,7 +4,6 @@
 Follow these steps if you don't regstered already otherwise jump to step5.
 1. To **Sign up** Redhat account go to https://sso.redhat.com and click on **Register**.
 \
-
 <kbd>![Registration](/images/ocplicense/redhat_regt.jpg )</kbd>
 2. Fill the required fields as follows:
     * Account Type: **Personal**
