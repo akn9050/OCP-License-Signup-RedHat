@@ -1,4 +1,4 @@
-# OCP-License-Signup-RedHat
+# RedHat-OCP-License-Signup
 
 ### Redhat account Registration
 Follow these steps if you don't regstered already otherwise jump to [step4](#now-log-in-to-red-hat-account).
@@ -72,4 +72,4 @@ Follow these steps if you don't regstered already otherwise jump to [step4](#now
 
 <kbd>![Pool ID](/images/ocplicense/pool_id.jpg)</kbd>
 
-[Up ↑](#ocp-license-signup-redhat)
+[Up ↑](#redhat-ocp-license-signup)
