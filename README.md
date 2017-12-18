@@ -13,7 +13,7 @@ Follow these steps if you don't regstered already otherwise jump to step5.
     * Tital: **Company name**
     * Enter your contact information.
     * Fields with * are mandatory. After filling required filled click on **Submit**.
-<kbd>![Registration Details](/images/ocplicense/reg_form.jpg)</kbd>
+\<kbd>![Registration Details](/images/ocplicense/reg_form.jpg)</kbd>
 <kbd>![Confirmation mail](/images/ocplicense/confirm_reg_mail.jpg)</kbd>
 <kbd>![Login Redhat](/images/ocplicense/login_redhat1.jpg)</kbd>
 <kbd>![Agree](/images/ocplicense/agree_getstarted2.jpg)</kbd>
