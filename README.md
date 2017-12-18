@@ -46,7 +46,9 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
 9. Fill the required fields.
     * Name: **Provide any name**
     * Service level: **Self Support**
-    * Auti Attach: **Enabled**
+    * Auto Attach: **Enabled**
+    * Click the **checkbox**
+    * Then click on **Create** button.
     
 <kbd>![Create](/images/ocplicense/create_activationkey.jpg)</kbd>
 <kbd>![Subscriptions](/images/ocplicense/click_subscription.jpg)</kbd>
