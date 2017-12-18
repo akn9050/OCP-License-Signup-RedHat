@@ -14,7 +14,7 @@ Follow these steps if you don't regstered already otherwise jump to step5.
     * Enter your contact information.
     * Fields with * are mandatory. After filling required filled click on **Submit**.
     
-<kbd>![Registration Details](/images/ocplicense/reg_form.jpg)</kbd>
+[Registration Details](/images/ocplicense/reg_form.jpg)
 
 3. After submitting you will get a confirmation mail from Red Hat, Open that and click on the **confirmation link**.
 \
