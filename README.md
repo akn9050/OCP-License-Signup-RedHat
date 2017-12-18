@@ -38,7 +38,12 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
     * Click on **Activation key**.
     
 <kbd>![Activation Key](/images/ocplicense/activation_key.jpg)</kbd>
+
+8. Here, you can see **Organization ID**. Save that for further use. Now click on **New** to create a new activation key.
+
 <kbd>![New](/images/ocplicense/new_activation_key.jpg)</kbd>
+
+9. 
 <kbd>![Create](/images/ocplicense/create_activationkey.jpg)</kbd>
 <kbd>![Subscriptions](/images/ocplicense/click_subscription.jpg)</kbd>
 <kbd>![Products](/images/ocplicense/click_30dayself.jpg)</kbd>
