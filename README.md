@@ -23,6 +23,9 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
 
 4. ##### Now Log IN to Red Hat account.
 <kbd>![Login Redhat](/images/ocplicense/login_redhat1.jpg)</kbd>
+
+5. Now goto the following link to activate OCP trial license.
+
 <kbd>![Agree](/images/ocplicense/agree_getstarted2.jpg)</kbd>
 <kbd>![My Subscription](/images/ocplicense/my_subscription.jpg)</kbd>
 <kbd>![Activation Key](/images/ocplicense/activation_key.jpg)</kbd>
