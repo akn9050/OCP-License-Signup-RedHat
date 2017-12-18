@@ -43,7 +43,11 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
 
 <kbd>![New](/images/ocplicense/new_activation_key.jpg)</kbd>
 
-9. 
+9. Fill the required fields.
+    * Name: **Provide any name**
+    * Service level: **Self Support**
+    * Auti Attach: **Enabled**
+    
 <kbd>![Create](/images/ocplicense/create_activationkey.jpg)</kbd>
 <kbd>![Subscriptions](/images/ocplicense/click_subscription.jpg)</kbd>
 <kbd>![Products](/images/ocplicense/click_30dayself.jpg)</kbd>
