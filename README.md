@@ -26,6 +26,7 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
 
 5. Now goto the following link to activate OCP trial license: 
  `https://www.redhat.com/wapps/eval/index.html?evaluation_id=1026`
+   * If it will ask for login then login with your Red Hat account and Click on **AGREE AND GET STARTED**
 
 <kbd>![Agree](/images/ocplicense/agree_getstarted2.jpg)</kbd>
 <kbd>![My Subscription](/images/ocplicense/my_subscription.jpg)</kbd>
