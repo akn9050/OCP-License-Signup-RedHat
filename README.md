@@ -1,1 +1,16 @@
-# OCP-licence-signup-RedHat-
+# OCP-licence-signup-RedHat
+
+![Registration](/images/ocplicense/redhat_reg.jpg )
+![](/images/ocplicense/reg_form.jpg)
+![](/images/ocplicense/confirm_reg_mail.jpg)
+![](/images/ocplicense/login_redhat1.jpg)
+![](/images/ocplicense/agree_getstarted2.jpg)
+![](/images/ocplicense/my_subscription.jpg)
+![](/images/ocplicense/activation_key.jpg)
+![](/images/ocplicense/new_activation_key.jpg)
+![](/images/ocplicense/create_activationkey.jpg)
+![](/images/ocplicense/click_subscription.jpg)
+![](/images/ocplicense/click_30dayself.jpg)
+![](/images/ocplicense/subscriptions_30daytrial.jpg)
+![](/images/ocplicense/subscription_number.jpg)
+![](/images/ocplicense/pool_id.jpg)
