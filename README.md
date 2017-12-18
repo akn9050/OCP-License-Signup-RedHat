@@ -1,5 +1,9 @@
 # OCP-licence-signup-RedHat
 
+### Redhat account Registration
+* Follow this step if you don't regstered already otherwise jump to step5.
+* To Sign up Redhat account go to https://sso.redhat.com. 
+\
 <kbd>![Registration](/images/ocplicense/redhat_reg.jpg )</kbd>
 <kbd>![Registration Details](/images/ocplicense/reg_form.jpg)</kbd>
 <kbd>![Confirmation mail](/images/ocplicense/confirm_reg_mail.jpg)</kbd>
