@@ -2,9 +2,17 @@
 
 ### Redhat account Registration
 Follow these steps if you don't regstered already otherwise jump to step5.
-* To Sign up Redhat account go to https://sso.redhat.com. 
+1. To **Sign up** Redhat account go to https://sso.redhat.com and click on **Register**.
 \
 <kbd>![Registration](/images/ocplicense/redhat_regt.jpg )</kbd>
+2. Fill the required fields as follows:
+    * Account Type: **Personal**
+    * Create a Red Hat Login: **Enter unique login ID**
+    * Email Address: **Enter your email id**
+    * Password : **Enter valid password**
+    * Tital: **Company name**
+    * Enter your contact information.
+    * Fields with ***** are mandatory. After filling required filled click on **Submit**.
 <kbd>![Registration Details](/images/ocplicense/reg_form.jpg)</kbd>
 <kbd>![Confirmation mail](/images/ocplicense/confirm_reg_mail.jpg)</kbd>
 <kbd>![Login Redhat](/images/ocplicense/login_redhat1.jpg)</kbd>
