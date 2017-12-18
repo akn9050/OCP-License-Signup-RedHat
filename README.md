@@ -60,7 +60,16 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
 
 <kbd>![Products](/images/ocplicense/click_30dayself.jpg)</kbd>
 
-12. 
+12. In side of overview blade click on **Subscriptions**. Here we can check the subscription consumption. 
+
 <kbd>![Subscription Details](/images/ocplicense/subscriptions_30daytrial.jpg)</kbd>
+
+13. Click on the Number under **subscription number**
+
 <kbd>![Select Subscription](/images/ocplicense/subscription_number.jpg)</kbd>
+
+14. Here we can see the subscription details. We need **Pool ID** for further use. Copy Pool ID and save in notepad.
+
 <kbd>![Pool ID](/images/ocplicense/pool_id.jpg)</kbd>
+
+[Up](#OCP-licence-signup-RedHat)
