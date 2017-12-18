@@ -72,4 +72,4 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
 
 <kbd>![Pool ID](/images/ocplicense/pool_id.jpg)</kbd>
 
-[Up↑](#ocp-license-signup-redhat)
+[Up ↑](#ocp-license-signup-redhat)
