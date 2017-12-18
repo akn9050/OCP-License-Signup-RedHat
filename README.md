@@ -29,6 +29,9 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
    * If it will ask for login then login with your Red Hat account and Click on **AGREE AND GET STARTED**
 
 <kbd>![Agree](/images/ocplicense/agree_getstarted2.jpg)</kbd>
+
+6. Home page will comes up after step 5. Click on **My Subscription**.
+
 <kbd>![My Subscription](/images/ocplicense/my_subscription.jpg)</kbd>
 <kbd>![Activation Key](/images/ocplicense/activation_key.jpg)</kbd>
 <kbd>![New](/images/ocplicense/new_activation_key.jpg)</kbd>
