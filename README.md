@@ -56,8 +56,11 @@ Follow these steps if you don't regstered already otherwise jump to [step5](#now
 
 <kbd>![Subscriptions](/images/ocplicense/click_subscription.jpg)</kbd>
 
-11.
+11. You will see active subscription under **OpenShift Enterprise**. Click on the openshift product.
+
 <kbd>![Products](/images/ocplicense/click_30dayself.jpg)</kbd>
+
+12. 
 <kbd>![Subscription Details](/images/ocplicense/subscriptions_30daytrial.jpg)</kbd>
 <kbd>![Select Subscription](/images/ocplicense/subscription_number.jpg)</kbd>
 <kbd>![Pool ID](/images/ocplicense/pool_id.jpg)</kbd>
